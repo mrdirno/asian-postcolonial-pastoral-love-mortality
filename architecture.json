@@ -1,0 +1,165 @@
+{
+  "book_id": "asian-postcolonial-pastoral-love-mortality",
+  "title": "The Ledger of Stolen Fruit",
+  "tagline": "A boy's stolen mango forges a lifelong bond with a village healer, teaching him that love, loss, and the land are entries in a single, unending ledger.",
+  "target_words": 70000,
+  "actual_words": 66081,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Economy of Balance",
+    "Colonial Medicine vs. Indigenous Knowledge",
+    "Love as a Debt to the Dying",
+    "The Pastoral as a Site of Memory and Erasure"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Debt",
+      "words": 2753
+    },
+    {
+      "ch": 2,
+      "title": "The Language of Leaves",
+      "words": 2753
+    },
+    {
+      "ch": 3,
+      "title": "The Cough in the House",
+      "words": 2753
+    },
+    {
+      "ch": 4,
+      "title": "The Photograph from Ipoh",
+      "words": 2753
+    },
+    {
+      "ch": 4,
+      "title": "The Photograph from Ipoh",
+      "words": 2753
+    },
+    {
+      "ch": 5,
+      "title": "The Government Clinic",
+      "words": 2753
+    },
+    {
+      "ch": 6,
+      "title": "Bitter Tea",
+      "words": 2753
+    },
+    {
+      "ch": 7,
+      "title": "The Story of the Grandfather",
+      "words": 2753
+    },
+    {
+      "ch": 8,
+      "title": "Monsoon",
+      "words": 2753
+    },
+    {
+      "ch": 9,
+      "title": "The *Parang*'s Edge",
+      "words": 2753
+    },
+    {
+      "ch": 10,
+      "title": "A Letter from the City",
+      "words": 2753
+    },
+    {
+      "ch": 11,
+      "title": "Fever Dreams",
+      "words": 2753
+    },
+    {
+      "ch": 12,
+      "title": "The Ants' Feast",
+      "words": 2753
+    },
+    {
+      "ch": 13,
+      "title": "The Seed is Planted",
+      "words": 2753
+    },
+    {
+      "ch": 14,
+      "title": "Harvest",
+      "words": 2753
+    },
+    {
+      "ch": 15,
+      "title": "Departure",
+      "words": 2753
+    },
+    {
+      "ch": 16,
+      "title": "Concrete and Neon",
+      "words": 2753
+    },
+    {
+      "ch": 17,
+      "title": "The Ledger Grows",
+      "words": 2753
+    },
+    {
+      "ch": 18,
+      "title": "A Call from the Village",
+      "words": 2753
+    },
+    {
+      "ch": 19,
+      "title": "Return",
+      "words": 2753
+    },
+    {
+      "ch": 20,
+      "title": "The Last Foraging",
+      "words": 2753
+    },
+    {
+      "ch": 21,
+      "title": "The Final Entry",
+      "words": 2753
+    },
+    {
+      "ch": 22,
+      "title": "Settling Accounts",
+      "words": 2753
+    },
+    {
+      "ch": 23,
+      "title": "The Heir to the Basket",
+      "words": 2753
+    },
+    {
+      "ch": 24,
+      "title": "A New Pyramid of Fruit",
+      "words": 2753
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern doctor encounters Aunty's 'backward' remedy and must confront its unsettling efficacy.",
+      "Draft a 'ledger entry' from Aunty's perspective, detailing a different 'debt' she balanced for another villager.",
+      "Imagine a chapter from the perspective of Kian's mother, caught between her cough, the pink syrup, and the bitter tea.",
+      "Write the story of Aunty's grandfather, the Chinese immigrant, and his Sakai wife—the founding imbalance of the house in the jungle."
+    ],
+    "technical": [
+      "Build an interactive 'Ledger' website where each chapter is an entry, and users can add their own 'debts' or 'balances' in the story's style.",
+      "Create a visual map of the village and jungle, tagging locations with the plants foraged there and the ailments they treat, as per Aunty's knowledge."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Mikhail Bulgakov",
+      "Arundhati Roy",
+      "Wong Kar-wai",
+      "Robin Wall Kimmerer"
+    ]
+  },
+  "cover_prompt": "A young boy, his face etched with a mix of guilt and awe, gently offers a single, luminous mango to an elderly village healer, whose wise, weathered hands accept the fruit not as theft but as a first offering, their connection forged in a silent exchange under a sprawling banyan tree, within a sun-drenched pastoral village that feels both vividly present and softly fading into memory, in the atmospheric style of Ravi Varma's lush realism and the evocative, textured brushwork of Lynette Yiadom-Boakye, book cover framing, centered and intimate portrait composition viewed from a low, reverent angle, cinematic chiaroscuro lighting with dappled sunlight filtering through leaves creating pools of gold and deep shadow, a color palette of rich mango yellows, earthy umbers, faded colonial whites, and the vibrant green of enduring life, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
